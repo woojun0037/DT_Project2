@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/DT_Project2/DT_Project2/Content/DT_Project2.umap"
+				"D:/DT_Project2/DT_Project2/Content/DT_Project2.umap",
+				"D:/DT_Project2/DT_Project2/Content/Map/DT_Project2.umap",
+				"D:/DT_Project2/DT_Project2/Content/Object/BP_MyBox.uasset",
+				"D:/DT_Project2/DT_Project2/Content/BP/BP_Conveyor.uasset"
 			]
 		}
 	]
