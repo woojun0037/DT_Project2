@@ -11,6 +11,7 @@
     <None Include="..\..\Source\DT_Project2Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -36,6 +37,12 @@
       <Filter>Source\DT_Project2</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\DT_Project2\DT_Project2.h">
+      <Filter>Source\DT_Project2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DT_Project2\MyActor.cpp">
+      <Filter>Source\DT_Project2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DT_Project2\MyActor.h">
       <Filter>Source\DT_Project2</Filter>
     </ClInclude>
   </ItemGroup>

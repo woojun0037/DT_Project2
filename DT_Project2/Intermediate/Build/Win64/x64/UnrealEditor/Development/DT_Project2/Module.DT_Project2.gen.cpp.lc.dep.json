@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dt_project2\\dt_project2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dt_project2\\module.dt_project2.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dt_project2\\dt_project2\\intermediate\\build\\win64\\x64\\dt_project2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dt_project2\\dt_project2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dt_project2\\definitions.dt_project2.h",
+            "d:\\dt_project2\\dt_project2\\intermediate\\build\\win64\\unrealeditor\\inc\\dt_project2\\uht\\dt_project2.init.gen.cpp",
+            "d:\\dt_project2\\dt_project2\\intermediate\\build\\win64\\unrealeditor\\inc\\dt_project2\\uht\\myactor.gen.cpp",
+            "d:\\dt_project2\\dt_project2\\source\\dt_project2\\myactor.h",
+            "d:\\dt_project2\\dt_project2\\intermediate\\build\\win64\\unrealeditor\\inc\\dt_project2\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

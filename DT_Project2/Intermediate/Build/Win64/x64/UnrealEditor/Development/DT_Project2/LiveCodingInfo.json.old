@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DT_Project2.gen.cpp.obj": [
+			"DT_Project2.init.gen.cpp.obj",
+			"MyActor.gen.cpp.obj"
+		]
+	}
+}
