@@ -5058,3 +5058,615 @@ FPackageName: Skipped package /Game/LeveSequence/LS_RM_7 has a valid, mounted, m
 [2025.10.02-05.54.16:861][246]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
 [2025.10.02-05.54.21:139][451]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Line/Meshes/SM_AssemblyLine01.SM_AssemblyLine01
 [2025.10.02-05.54.21:147][451]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.10.02-05.55.42:295][ 27]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.02-05.57.00:156][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21785.412109
+[2025.10.02-05.57.01:156][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-05.57.01:156][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21786.080078, Update Interval: 308.906525
+[2025.10.02-05.59.05:160][177]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.10.02-05.59.14:791][726]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.02-05.59.14:791][726]LogStreaming: Display: FlushAsyncLoading(929): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-05.59.14:800][726]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo
+[2025.10.02-05.59.14:824][726]LogObjectTools: Deleting 1 worlds: /Game/IndustrialRobot/Maps/Demo.Demo
+[2025.10.02-05.59.14:824][726]LogObjectTools: Currently 40 active worlds: /Game/Map/DT_Project2.DT_Project2, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_28, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31, /Engine/Transient.World_32, /Engine/Transient.World_33, /Engine/Transient.World_34, /Engine/Transient.World_35, /Engine/Transient.World_36, /Engine/Transient.World_37, /Engine/Transient.World_38, /Engine/Transient.World_39, /Engine/Transient.World_40, /Engine/Transient.World_41, /Engine/Transient.World_42, /Engine/Transient.World_43, /Engine/Transient.World_44
+[2025.10.02-05.59.14:904][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.10.02-05.59.48:362][726]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.02-05.59.48:505][726]LogUObjectGlobals: Force Deleting 227 Package(s):
+	Asset Name: /Game/IndustrialRobot/Textures/RM_11/T_RM_11_BaseColor.T_RM_11_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/IndustrialRobot/Textures/RM_11/T_RM_11_ID_Color.T_RM_11_ID_Color
+	Asset Type: Texture2D
+	Asset Name: /Game/IndustrialRobot/Textures/RM_11/T_RM_11_Normal.T_RM_11_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/IndustrialRobot/Textures/RM_11/T_RM_11_OcclusionRoughnessMetallic.T_RM_11_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/IndustrialRobot/Materials/M_RM_11.M_RM_11
+	Asset Type: Material
+	Asset Name: /Game/IndustrialRobot/Materials/Material_inst/M_RM_11_Inst.M_RM_11_Inst
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/IndustrialRobot/Models/SM_S_5.SM_S_5
+	Asset Type: StaticMesh
+	Asset Name: /Game/IndustrialRobot/Models/SM_S_1.SM_S_1
+	Asset Type: StaticMesh
+	Asset Name: /Game/IndustrialRobot/Models/SM_S_2.SM_S_2
+	Asset Type: StaticMesh
+	Asset Name: /Game/IndustrialRobot/Models/SM_S_3.SM_S_3
+	Asset Type: StaticMesh
+[2025.10.02-05.59.49:002][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_11.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:002][726]LogMaterial: Warning: M_RM_11: Requesting an invalid TextureIndex! (1 / 1)
+[2025.10.02-05.59.49:085][726]LogStaticMesh: Display: Building static mesh SM_S_5 (Required Memory Estimate: 0.960189 MB)...
+[2025.10.02-05.59.49:095][726]LogStaticMesh: Display: Building static mesh SM_S_3 (Required Memory Estimate: 0.12539 MB)...
+[2025.10.02-05.59.49:105][726]LogStaticMesh: Built static mesh [0.01s] /Game/IndustrialRobot/Models/SM_S_3.SM_S_3
+[2025.10.02-05.59.49:108][726]LogStaticMesh: Display: Building static mesh SM_S_7_1 (Required Memory Estimate: 0.023932 MB)...
+[2025.10.02-05.59.49:111][726]LogStaticMesh: Built static mesh [0.00s] /Game/IndustrialRobot/Models/SM_S_7_1.SM_S_7_1
+[2025.10.02-05.59.49:124][726]LogStaticMesh: Display: Building static mesh SM_S_7 (Required Memory Estimate: 0.574479 MB)...
+[2025.10.02-05.59.49:141][726]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IndustrialRobot/Models/SM_S_7) ...
+[2025.10.02-05.59.49:192][726]LogStaticMesh: Built static mesh [0.07s] /Game/IndustrialRobot/Models/SM_S_7.SM_S_7
+[2025.10.02-05.59.49:196][726]LogStaticMesh: Display: Building static mesh SM_S_2 (Required Memory Estimate: 0.238931 MB)...
+[2025.10.02-05.59.49:211][726]LogStaticMesh: Built static mesh [0.13s] /Game/IndustrialRobot/Models/SM_S_5.SM_S_5
+[2025.10.02-05.59.49:212][726]LogStaticMesh: Built static mesh [0.02s] /Game/IndustrialRobot/Models/SM_S_2.SM_S_2
+[2025.10.02-05.59.49:213][726]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IndustrialRobot/Models/SM_S_2) ...
+[2025.10.02-05.59.49:214][726]LogStaticMesh: Display: Building static mesh SM_S_3_1 (Required Memory Estimate: 0.563558 MB)...
+[2025.10.02-05.59.49:231][726]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IndustrialRobot/Models/SM_S_3_1) ...
+[2025.10.02-05.59.49:280][726]LogStaticMesh: Built static mesh [0.07s] /Game/IndustrialRobot/Models/SM_S_3_1.SM_S_3_1
+[2025.10.02-05.59.49:282][726]LogStaticMesh: Display: Building static mesh SM_S_4 (Required Memory Estimate: 0.223096 MB)...
+[2025.10.02-05.59.49:299][726]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IndustrialRobot/Models/SM_S_4) ...
+[2025.10.02-05.59.49:301][726]LogStaticMesh: Built static mesh [0.02s] /Game/IndustrialRobot/Models/SM_S_4.SM_S_4
+[2025.10.02-05.59.49:313][726]LogStaticMesh: Display: Building static mesh SM_S_1 (Required Memory Estimate: 0.241815 MB)...
+[2025.10.02-05.59.49:330][726]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/IndustrialRobot/Models/SM_S_1) ...
+[2025.10.02-05.59.49:336][726]LogStaticMesh: Built static mesh [0.02s] /Game/IndustrialRobot/Models/SM_S_1.SM_S_1
+[2025.10.02-05.59.49:353][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_13.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:365][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_14.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:366][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_14.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:372][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_14_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:388][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_14_op.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:390][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_14_op.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:393][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM10.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:444][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:450][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:490][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:494][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_10.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:509][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_9.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:551][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:581][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:584][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:616][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:620][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_4.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:647][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:667][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:684][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:688][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_5.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.49:899][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:900][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:900][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:901][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.49:905][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_6.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.50:019][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:073][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:073][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:076][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_7.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.50:261][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:326][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:480][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:480][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:481][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:482][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:486][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_12.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.50:499][726]LogStaticMesh: Display: Building static mesh SM_S_6 (Required Memory Estimate: 1.771603 MB)...
+[2025.10.02-05.59.50:502][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_8.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.50:620][726]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_RM_8_2) ...
+[2025.10.02-05.59.50:645][726]LogStaticMesh: Built static mesh [0.15s] /Game/IndustrialRobot/Models/SM_S_6.SM_S_6
+[2025.10.02-05.59.50:656][726]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_RM_8_2) ...
+[2025.10.02-05.59.50:693][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:694][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-05.59.50:698][726]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\IndustrialRobot\Materials\M_RM_15.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-05.59.50:727][726]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_RM_8_1) ...
+[2025.10.02-05.59.50:747][726]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_RM_8_1) ...
+[2025.10.02-05.59.50:766][726]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_RM_8_1) ...
+[2025.10.02-05.59.50:790][726]LogAnimation: Warning: Invalid animation skeleton
+[2025.10.02-06.00.29:844][726]LogSlate: Window 'Message' being destroyed
+[2025.10.02-06.00.29:880][726]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/IndustrialRobot/Sounds/RM_1.RM_1 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/IndustrialRobot/Sounds/RM_1.RM_1:
+   SoundNodeWavePlayer /Game/IndustrialRobot/Sounds/RM_1_SoundCue.RM_1_SoundCue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2025.10.02-06.00.29:880][726]LogObjectTools: Warning: ForceDeleteObject failed to delete RM_1, this package is now potentially corrupt
+[2025.10.02-06.00.34:361][726]LogSlate: Window 'Message' being destroyed
+[2025.10.02-06.00.34:397][726]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/IndustrialRobot/Sounds/RM_2.RM_2 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/IndustrialRobot/Sounds/RM_2.RM_2:
+   SoundNodeWavePlayer /Game/IndustrialRobot/Sounds/RM_2_SoundCue.RM_2_SoundCue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2025.10.02-06.00.34:397][726]LogObjectTools: Warning: ForceDeleteObject failed to delete RM_2, this package is now potentially corrupt
+[2025.10.02-06.00.38:494][726]LogSlate: Window 'Message' being destroyed
+[2025.10.02-06.00.38:529][726]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/IndustrialRobot/Sounds/RM_welding.RM_welding is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/IndustrialRobot/Sounds/RM_welding.RM_welding:
+   SoundNodeWavePlayer /Game/IndustrialRobot/Sounds/RM_welding_SoundCue.RM_welding_SoundCue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2025.10.02-06.00.38:530][726]LogObjectTools: Warning: ForceDeleteObject failed to delete RM_welding, this package is now potentially corrupt
+[2025.10.02-06.00.39:743][726]LogSlate: Window 'Message' being destroyed
+[2025.10.02-06.00.39:779][726]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/IndustrialRobot/Sounds/RM_saw.RM_saw is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/IndustrialRobot/Sounds/RM_saw.RM_saw:
+   SoundNodeWavePlayer /Game/IndustrialRobot/Sounds/RM_saw_SoundCue.RM_saw_SoundCue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2025.10.02-06.00.39:779][726]LogObjectTools: Warning: ForceDeleteObject failed to delete RM_saw, this package is now potentially corrupt
+[2025.10.02-06.00.40:876][726]LogSlate: Window 'Message' being destroyed
+[2025.10.02-06.00.40:913][726]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/IndustrialRobot/Sounds/RM_4.RM_4 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/IndustrialRobot/Sounds/RM_4.RM_4:
+   SoundNodeWavePlayer /Game/IndustrialRobot/Sounds/RM_4_SoundCue.RM_4_SoundCue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2025.10.02-06.00.40:913][726]LogObjectTools: Warning: ForceDeleteObject failed to delete RM_4, this package is now potentially corrupt
+[2025.10.02-06.00.42:063][726]LogSlate: Window 'Message' being destroyed
+[2025.10.02-06.00.42:098][726]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/IndustrialRobot/Sounds/RM_3.RM_3 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/IndustrialRobot/Sounds/RM_3.RM_3:
+   SoundNodeWavePlayer /Game/IndustrialRobot/Sounds/RM_3_SoundCue.RM_3_SoundCue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2025.10.02-06.00.42:098][726]LogObjectTools: Warning: ForceDeleteObject failed to delete RM_3, this package is now potentially corrupt
+[2025.10.02-06.00.42:141][726]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-06.00.42:141][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-06.00.51:388][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.10.02-06.00.51:423][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.02-06.00.51:452][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.02-06.00.51:618][726]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.10.02-06.00.51:690][726]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.073 s
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: === Handled ensure: ===
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: 
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: Ensure condition failed: false  [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 3940] 
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: 
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: 					from the file system manually: 
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: /Game/IndustrialRobot/Sounds/RM_1
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: /Game/IndustrialRobot/Sounds/RM_2
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: /Game/IndustrialRobot/Sounds/RM_welding
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: /Game/IndustrialRobot/Sounds/RM_saw
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: /Game/IndustrialRobot/Sounds/RM_4
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: /Game/IndustrialRobot/Sounds/RM_3
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: Stack: 
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd6fdf70a7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd6f2e8104 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd6e55d575 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd6ea9a83d UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd6ea8e19a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8d1961e UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8d381e2 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8acbe6b UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8ab743d UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8b11ec8 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8b013bb UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8af4091 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bcf956 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bb7137 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bd299c UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bb1171 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdefaaef5c USER32.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdefaae684 USER32.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bd3359 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8b1aaae UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8ad180b UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd6ebe4bd7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd6f2db976 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd64a86840 UnrealEditor-AssetTools.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd31b0b853 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd31b0bab6 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd31aed927 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd5d52b100 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2025.10.02-06.00.51:690][726]LogOutputDevice: Error: [Callstack] 0x00007ffd5d527800 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffd5d57986b UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffd5d5289ea UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8d1961e UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8d381e2 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8acbe6b UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8ab743d UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8b11ec8 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8b013bb UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdb8af4091 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bcf956 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bb7137 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bd299c UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bb1171 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdefaaef5c USER32.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdefaae684 USER32.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdc6bf2316 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ff68a96871b UnrealEditor.exe!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ff68a98e5ac UnrealEditor.exe!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ff68a98e6ba UnrealEditor.exe!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ff68a99209e UnrealEditor.exe!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ff68a9a4e44 UnrealEditor.exe!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ff68a9a80fa UnrealEditor.exe!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdf0e07374 KERNEL32.DLL!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: [Callstack] 0x00007ffdf197cc91 ntdll.dll!UnknownFunction []
+[2025.10.02-06.00.51:691][726]LogOutputDevice: Error: 
+[2025.10.02-06.00.51:724][726]LogStats:                SubmitErrorReport -  0.000 s
+[2025.10.02-06.00.53:459][726]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1484ms], ThreadID=11020
+[2025.10.02-06.00.53:459][726]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.02-06.00.53:460][726]LogStats:                    SendNewReport -  1.735 s
+[2025.10.02-06.00.53:460][726]LogStats:             FDebug::EnsureFailed -  1.842 s
+[2025.10.02-06.00.53:507][726]LoadErrors: Warning: While trying to load package /Game/IndustrialRobot/Maps/Demo, a dependent package /Game/IndustrialRobot/Maps/Demo_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/IndustrialRobot/Maps/Demo_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/IndustrialRobot/Maps/Demo_BuiltData'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-06.00.53:510][726]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/DT_Project2/DT_Project2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.02-06.01.36:531][269]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.02-06.01.36:531][269]LogStreaming: Display: FlushAsyncLoading(937): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-06.01.36:698][269]LogChaosDD: Creating Chaos Debug Draw Scene for world AutomobileFlowLine
+[2025.10.02-06.01.36:952][269]LogChaosDD: Creating Chaos Debug Draw Scene for world AutomobileFlowLine_Lumen
+[2025.10.02-06.01.37:045][269]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview
+[2025.10.02-06.01.37:050][269]LogObjectTools: Deleting 3 worlds: /Game/AutomobileFlowLine/Maps/AutomobileFlowLine.AutomobileFlowLine, /Game/AutomobileFlowLine/Maps/AutomobileFlowLine_Lumen.AutomobileFlowLine_Lumen, /Game/AutomobileFlowLine/Maps/Overview.Overview
+[2025.10.02-06.01.37:050][269]LogObjectTools: Currently 40 active worlds: /Game/Map/DT_Project2.DT_Project2, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_28, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31, /Engine/Transient.World_32, /Engine/Transient.World_33, /Engine/Transient.World_34, /Engine/Transient.World_35, /Engine/Transient.World_36, /Engine/Transient.World_37, /Engine/Transient.World_38, /Engine/Transient.World_39, /Engine/Transient.World_40, /Engine/Transient.World_41, /Engine/Transient.World_42, /Engine/Transient.World_43, /Engine/Transient.World_44
+[2025.10.02-06.01.37:168][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.10.02-06.02.01:881][269]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.02-06.02.02:278][269]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-06.02.02:278][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-06.02.02:316][269]LogUObjectGlobals: Force Deleting 107 Package(s):
+	Asset Name: /Game/AutomobileFlowLine/Mesh/Other/SM_Box01.SM_Box01
+	Asset Type: StaticMesh
+	Asset Name: /Game/AutomobileFlowLine/Materials/Metal/MI_Metal_03.MI_Metal_03
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_002.SM_GoodsShelves_002
+	Asset Type: StaticMesh
+	Asset Name: /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_007.SM_Handrail_007
+	Asset Type: StaticMesh
+	Asset Name: /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_006.SM_Handrail_006
+	Asset Type: StaticMesh
+	Asset Name: /Game/AutomobileFlowLine/Mesh/Other/SM_Pillar.SM_Pillar
+	Asset Type: StaticMesh
+	Asset Name: /Game/AutomobileFlowLine/Materials/Zebracrossing/MI_ZebraCrossing_A_01.MI_ZebraCrossing_A_01
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/AutomobileFlowLine/Materials/Zebracrossing/M_ZebraCrossing_A.M_ZebraCrossing_A
+	Asset Type: Material
+	Asset Name: /Game/AutomobileFlowLine/Textures/T_ZebraCrossing_01.T_ZebraCrossing_01
+	Asset Type: Texture2D
+	Asset Name: /Game/AutomobileFlowLine/Mesh/Handrail/SM_Stairs_001.SM_Stairs_001
+	Asset Type: StaticMesh
+[2025.10.02-06.02.05:646][269]LogStaticMesh: Display: Building static mesh SM_CarBody_002 (Required Memory Estimate: 2.046716 MB)...
+[2025.10.02-06.02.05:655][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Car/SM_CarBody_002.SM_CarBody_002
+[2025.10.02-06.02.05:661][269]LogStaticMesh: Display: Building static mesh SM_Plane (Required Memory Estimate: 0.007837 MB)...
+[2025.10.02-06.02.05:662][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Other/SM_Plane.SM_Plane
+[2025.10.02-06.02.05:678][269]LogStaticMesh: Display: Building static mesh SM_Shelf_012 (Required Memory Estimate: 0.073199 MB)...
+[2025.10.02-06.02.05:679][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_012.SM_Shelf_012
+[2025.10.02-06.02.05:716][269]LogStaticMesh: Display: Building static mesh SM_Shelf_011 (Required Memory Estimate: 0.110864 MB)...
+[2025.10.02-06.02.05:717][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_011.SM_Shelf_011
+[2025.10.02-06.02.05:722][269]LogStaticMesh: Display: Building static mesh SM_Shelf_010 (Required Memory Estimate: 0.220052 MB)...
+[2025.10.02-06.02.05:723][269]LogStaticMesh: Display: Building static mesh SM_Shelf_009 (Required Memory Estimate: 0.076043 MB)...
+[2025.10.02-06.02.05:723][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_010.SM_Shelf_010
+[2025.10.02-06.02.05:724][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_009.SM_Shelf_009
+[2025.10.02-06.02.05:728][269]LogStaticMesh: Display: Building static mesh SM_Shelf_008 (Required Memory Estimate: 0.045495 MB)...
+[2025.10.02-06.02.05:729][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_008.SM_Shelf_008
+[2025.10.02-06.02.05:731][269]LogStaticMesh: Display: Building static mesh SM_Shelf_007 (Required Memory Estimate: 0.518103 MB)...
+[2025.10.02-06.02.05:732][269]LogStaticMesh: Display: Building static mesh SM_Shelf_006 (Required Memory Estimate: 0.045495 MB)...
+[2025.10.02-06.02.05:732][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_006.SM_Shelf_006
+[2025.10.02-06.02.05:734][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_007.SM_Shelf_007
+[2025.10.02-06.02.05:737][269]LogStaticMesh: Display: Building static mesh SM_Shelf_005 (Required Memory Estimate: 0.045495 MB)...
+[2025.10.02-06.02.05:738][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_005.SM_Shelf_005
+[2025.10.02-06.02.05:738][269]LogStaticMesh: Display: Building static mesh SM_Shelf_004 (Required Memory Estimate: 0.045495 MB)...
+[2025.10.02-06.02.05:738][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_004.SM_Shelf_004
+[2025.10.02-06.02.05:739][269]LogStaticMesh: Display: Building static mesh SM_Shelf_003 (Required Memory Estimate: 0.045495 MB)...
+[2025.10.02-06.02.05:739][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_003.SM_Shelf_003
+[2025.10.02-06.02.05:743][269]LogStaticMesh: Display: Building static mesh SM_Shelf_002 (Required Memory Estimate: 0.060529 MB)...
+[2025.10.02-06.02.05:744][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_002.SM_Shelf_002
+[2025.10.02-06.02.05:746][269]LogStaticMesh: Display: Building static mesh SM_Shelf_001 (Required Memory Estimate: 0.518103 MB)...
+[2025.10.02-06.02.05:749][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_001.SM_Shelf_001
+[2025.10.02-06.02.05:766][269]LogStaticMesh: Display: Building static mesh SM_Pulley_001 (Required Memory Estimate: 2.366863 MB)...
+[2025.10.02-06.02.05:776][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/DiamondPlate/SM_Pulley_001.SM_Pulley_001
+[2025.10.02-06.02.05:868][269]LogStaticMesh: Display: Building static mesh SM_CarBody_001 (Required Memory Estimate: 20.308823 MB)...
+[2025.10.02-06.02.05:932][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\Wall\M_Wall.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.05:934][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\Wall\M_Wall.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.05:955][269]LogStaticMesh: Built static mesh [0.09s] /Game/AutomobileFlowLine/Mesh/Car/SM_CarBody_001.SM_CarBody_001
+[2025.10.02-06.02.06:139][269]LogStaticMesh: Display: Building static mesh SM_Box01 (Required Memory Estimate: 0.043612 MB)...
+[2025.10.02-06.02.06:140][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Other/SM_Box01.SM_Box01
+[2025.10.02-06.02.06:146][269]LogStaticMesh: Display: Building static mesh SM_Handrail_007 (Required Memory Estimate: 1.620004 MB)...
+[2025.10.02-06.02.06:147][269]LogStaticMesh: Display: Building static mesh SM_Handrail_006 (Required Memory Estimate: 4.852094 MB)...
+[2025.10.02-06.02.06:149][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\Zebracrossing\M_ZebraCrossing_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.06:152][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\Zebracrossing\M_ZebraCrossing_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.06:154][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_007.SM_Handrail_007
+[2025.10.02-06.02.06:167][269]LogStaticMesh: Built static mesh [0.02s] /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_006.SM_Handrail_006
+[2025.10.02-06.02.06:172][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\DiamondPlate\M_DiamondPlate.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.06:174][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\DiamondPlate\M_DiamondPlate.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.06:176][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\DiamondPlate\M_DiamondPlate.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.06:209][269]LogStaticMesh: Display: Building static mesh SM_DiamondPlate_002 (Required Memory Estimate: 0.532335 MB)...
+[2025.10.02-06.02.06:212][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/DiamondPlate/SM_DiamondPlate_002.SM_DiamondPlate_002
+[2025.10.02-06.02.06:235][269]LogStaticMesh: Display: Building static mesh SM_DiamondPlate_001 (Required Memory Estimate: 0.532335 MB)...
+[2025.10.02-06.02.06:237][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/DiamondPlate/SM_DiamondPlate_001.SM_DiamondPlate_001
+[2025.10.02-06.02.06:239][269]LogStaticMesh: Display: Building static mesh SM_DiamondPlate_003 (Required Memory Estimate: 0.532335 MB)...
+[2025.10.02-06.02.06:239][269]LogStaticMesh: Display: Building static mesh SM_Stairs_001 (Required Memory Estimate: 0.092779 MB)...
+[2025.10.02-06.02.06:240][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Handrail/SM_Stairs_001.SM_Stairs_001
+[2025.10.02-06.02.06:242][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/DiamondPlate/SM_DiamondPlate_003.SM_DiamondPlate_003
+[2025.10.02-06.02.06:256][269]LogStaticMesh: Display: Building static mesh SM_Boot (Required Memory Estimate: 1.473051 MB)...
+[2025.10.02-06.02.06:257][269]LogStaticMesh: Display: Building static mesh SM_FrontDoor (Required Memory Estimate: 9.125229 MB)...
+[2025.10.02-06.02.06:257][269]LogStaticMesh: Display: Building static mesh SM_RearDoor (Required Memory Estimate: 8.08909 MB)...
+[2025.10.02-06.02.06:258][269]LogStaticMesh: Display: Building static mesh SM_Car_Body (Required Memory Estimate: 216.808928 MB)...
+[2025.10.02-06.02.06:258][269]LogStaticMesh: Display: Building static mesh SM_GoodsShelves_008 (Required Memory Estimate: 7.951644 MB)...
+[2025.10.02-06.02.06:258][269]LogStaticMesh: Display: Building static mesh SM_Hood (Required Memory Estimate: 1.260249 MB)...
+[2025.10.02-06.02.06:263][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Car/SM_Boot.SM_Boot
+[2025.10.02-06.02.06:264][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Car/SM_Hood.SM_Hood
+[2025.10.02-06.02.06:265][269]LogStaticMesh: Warning: SM_Boot has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.02-06.02.06:265][269]LogStaticMesh: Warning: SM_Boot has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.02-06.02.06:266][269]LogStaticMesh: Warning: SM_Hood has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.10.02-06.02.06:266][269]LogStaticMesh: Warning: SM_Hood has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.02-06.02.06:269][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\Zebracrossing\M_CarShadow.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.06:271][269]LogMaterial: Warning: [AssetLog] D:\DT_Project2\DT_Project2\Content\AutomobileFlowLine\Materials\Zebracrossing\M_CarShadow.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.10.02-06.02.06:293][269]LogStaticMesh: Built static mesh [0.04s] /Game/AutomobileFlowLine/Mesh/Car/SM_RearDoor.SM_RearDoor
+[2025.10.02-06.02.06:296][269]LogStaticMesh: Built static mesh [0.04s] /Game/AutomobileFlowLine/Mesh/Car/SM_FrontDoor.SM_FrontDoor
+[2025.10.02-06.02.06:301][269]LogStaticMesh: Display: Building static mesh SM_Shelf_021 (Required Memory Estimate: 0.109435 MB)...
+[2025.10.02-06.02.06:303][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_021.SM_Shelf_021
+[2025.10.02-06.02.06:304][269]LogStaticMesh: Built static mesh [0.05s] /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_008.SM_GoodsShelves_008
+[2025.10.02-06.02.06:316][269]LogStaticMesh: Display: Building static mesh SM_Shelf_016 (Required Memory Estimate: 0.076023 MB)...
+[2025.10.02-06.02.06:317][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_016.SM_Shelf_016
+[2025.10.02-06.02.06:317][269]LogStaticMesh: Display: Building static mesh SM_Pillar (Required Memory Estimate: 0.034754 MB)...
+[2025.10.02-06.02.06:318][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Other/SM_Pillar.SM_Pillar
+[2025.10.02-06.02.06:326][269]LogStaticMesh: Display: Building static mesh SM_Shelf_018 (Required Memory Estimate: 16.302636 MB)...
+[2025.10.02-06.02.06:327][269]LogStaticMesh: Display: Building static mesh SM_Shelf_020 (Required Memory Estimate: 10.350404 MB)...
+[2025.10.02-06.02.06:327][269]LogStaticMesh: Display: Building static mesh SM_Shelf_017 (Required Memory Estimate: 7.748241 MB)...
+[2025.10.02-06.02.06:328][269]LogStaticMesh: Display: Building static mesh SM_Shelf_015 (Required Memory Estimate: 0.076043 MB)...
+[2025.10.02-06.02.06:328][269]LogStaticMesh: Display: Building static mesh SM_Shelf_014 (Required Memory Estimate: 0.017871 MB)...
+[2025.10.02-06.02.06:329][269]LogStaticMesh: Display: Building static mesh SM_Shelf_013 (Required Memory Estimate: 0.045508 MB)...
+[2025.10.02-06.02.06:329][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_015.SM_Shelf_015
+[2025.10.02-06.02.06:329][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_014.SM_Shelf_014
+[2025.10.02-06.02.06:330][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_013.SM_Shelf_013
+[2025.10.02-06.02.06:331][269]LogStaticMesh: Display: Building static mesh SM_Handrail_005 (Required Memory Estimate: 0.453889 MB)...
+[2025.10.02-06.02.06:332][269]LogStaticMesh: Display: Building static mesh SM_Handrail_004 (Required Memory Estimate: 1.744466 MB)...
+[2025.10.02-06.02.06:332][269]LogStaticMesh: Display: Building static mesh SM_Handrail_003 (Required Memory Estimate: 6.468085 MB)...
+[2025.10.02-06.02.06:334][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_005.SM_Handrail_005
+[2025.10.02-06.02.06:335][269]LogStaticMesh: Display: Building static mesh SM_Handrail_002 (Required Memory Estimate: 1.682248 MB)...
+[2025.10.02-06.02.06:342][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_004.SM_Handrail_004
+[2025.10.02-06.02.06:344][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_002.SM_Handrail_002
+[2025.10.02-06.02.06:344][269]LogStaticMesh: Display: Building static mesh SM_Handrail_001 (Required Memory Estimate: 1.620004 MB)...
+[2025.10.02-06.02.06:351][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_001.SM_Handrail_001
+[2025.10.02-06.02.06:351][269]LogStaticMesh: Display: Building static mesh SM_GoodsShelves_006 (Required Memory Estimate: 4.848963 MB)...
+[2025.10.02-06.02.06:353][269]LogStaticMesh: Display: Building static mesh SM_GoodsShelves_005 (Required Memory Estimate: 12.552991 MB)...
+[2025.10.02-06.02.06:365][269]LogStaticMesh: Built static mesh [0.03s] /Game/AutomobileFlowLine/Mesh/Handrail/SM_Handrail_003.SM_Handrail_003
+[2025.10.02-06.02.06:366][269]LogStaticMesh: Display: Building static mesh SM_DiamondPlate_004 (Required Memory Estimate: 1.133571 MB)...
+[2025.10.02-06.02.06:374][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/DiamondPlate/SM_DiamondPlate_004.SM_DiamondPlate_004
+[2025.10.02-06.02.06:376][269]LogStaticMesh: Display: Building static mesh SM_GoodsShelves_002 (Required Memory Estimate: 5.389109 MB)...
+[2025.10.02-06.02.06:379][269]LogStaticMesh: Built static mesh [0.05s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_017.SM_Shelf_017
+[2025.10.02-06.02.06:379][269]LogStaticMesh: Built static mesh [0.03s] /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_006.SM_GoodsShelves_006
+[2025.10.02-06.02.06:384][269]LogStaticMesh: Display: Building static mesh SM_GoodsShelves_007 (Required Memory Estimate: 43.239334 MB)...
+[2025.10.02-06.02.06:389][269]LogStaticMesh: Built static mesh [0.06s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_020.SM_Shelf_020
+[2025.10.02-06.02.06:390][269]LogStaticMesh: Display: Building static mesh SM_Shelf_019 (Required Memory Estimate: 0.937338 MB)...
+[2025.10.02-06.02.06:395][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_019.SM_Shelf_019
+[2025.10.02-06.02.06:397][269]LogStaticMesh: Warning: SM_Shelf_019 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.10.02-06.02.06:397][269]LogStaticMesh: Warning: SM_Shelf_019 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.02-06.02.06:397][269]LogStaticMesh: Display: Building static mesh SM_GoodsShelves_003 (Required Memory Estimate: 3.078682 MB)...
+[2025.10.02-06.02.06:400][269]LogStaticMesh: Display: Building static mesh SM_GoodsShelves_001 (Required Memory Estimate: 0.186687 MB)...
+[2025.10.02-06.02.06:402][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_001.SM_GoodsShelves_001
+[2025.10.02-06.02.06:403][269]LogStaticMesh: Display: Building static mesh SM_GoodsShelves_004 (Required Memory Estimate: 6.562293 MB)...
+[2025.10.02-06.02.06:409][269]LogStaticMesh: Built static mesh [0.03s] /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_002.SM_GoodsShelves_002
+[2025.10.02-06.02.06:413][269]LogStaticMesh: Built static mesh [0.02s] /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_003.SM_GoodsShelves_003
+[2025.10.02-06.02.06:414][269]LogStaticMesh: Display: Building static mesh SM_DiamondPlate_005 (Required Memory Estimate: 0.054434 MB)...
+[2025.10.02-06.02.06:415][269]LogStaticMesh: Built static mesh [0.00s] /Game/AutomobileFlowLine/Mesh/DiamondPlate/SM_DiamondPlate_005.SM_DiamondPlate_005
+[2025.10.02-06.02.06:417][269]LogStaticMesh: Display: Building static mesh SM_CarBody_005 (Required Memory Estimate: 7.514771 MB)...
+[2025.10.02-06.02.06:418][269]LogStaticMesh: Display: Building static mesh SM_CarBody_004 (Required Memory Estimate: 0.819825 MB)...
+[2025.10.02-06.02.06:424][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Car/SM_CarBody_004.SM_CarBody_004
+[2025.10.02-06.02.06:425][269]LogStaticMesh: Display: Building static mesh SM_CarBody_003 (Required Memory Estimate: 1.868995 MB)...
+[2025.10.02-06.02.06:432][269]LogStaticMesh: Built static mesh [0.08s] /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_005.SM_GoodsShelves_005
+[2025.10.02-06.02.06:434][269]LogStaticMesh: Built static mesh [0.01s] /Game/AutomobileFlowLine/Mesh/Car/SM_CarBody_003.SM_CarBody_003
+[2025.10.02-06.02.06:441][269]LogStaticMesh: Built static mesh [0.04s] /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_004.SM_GoodsShelves_004
+[2025.10.02-06.02.06:454][269]LogStaticMesh: Built static mesh [0.04s] /Game/AutomobileFlowLine/Mesh/Car/SM_CarBody_005.SM_CarBody_005
+[2025.10.02-06.02.06:460][269]LogStaticMesh: Built static mesh [0.13s] /Game/AutomobileFlowLine/Mesh/Shelf/SM_Shelf_018.SM_Shelf_018
+[2025.10.02-06.02.06:615][269]LogStaticMesh: Built static mesh [0.23s] /Game/AutomobileFlowLine/Mesh/GoodsShelves/SM_GoodsShelves_007.SM_GoodsShelves_007
+[2025.10.02-06.02.06:650][269]LogStaticMesh: Warning: SM_GoodsShelves_007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.10.02-06.02.06:650][269]LogStaticMesh: Warning: SM_GoodsShelves_007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.02-06.02.07:129][269]LogStaticMesh: Built static mesh [0.87s] /Game/AutomobileFlowLine/Mesh/Car/SM_Car_Body.SM_Car_Body
+[2025.10.02-06.02.07:287][269]LogStaticMesh: Warning: SM_Car_Body has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.02-06.02.07:287][269]LogStaticMesh: Warning: SM_Car_Body has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.02-06.02.07:382][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.10.02-06.02.09:973][269]LogWorld: UWorld::CleanupWorld for AutomobileFlowLine, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-06.02.09:977][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-06.02.10:014][269]LogWorld: UWorld::CleanupWorld for AutomobileFlowLine_Lumen, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-06.02.10:019][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-06.02.10:042][269]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-06.02.10:042][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-06.02.14:315][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.10.02-06.02.14:348][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.10.02-06.02.14:377][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.02-06.02.14:610][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.02-06.02.14:647][269]LoadErrors: Warning: While trying to load package /Game/AutomobileFlowLine/Maps/Overview, a dependent package /Game/AutomobileFlowLine/Maps/Overview_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/AutomobileFlowLine/Maps/Overview_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/AutomobileFlowLine/Maps/Overview_BuiltData'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-06.02.14:650][269]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/DT_Project2/DT_Project2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.02-06.02.17:727][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.02-06.02.17:730][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/DT_Project2" FILE="D:/DT_Project2/DT_Project2/Saved/Autosaves/Game/Map/DT_Project2_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.10.02-06.02.17:746][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/DT_Project2_Auto1
+[2025.10.02-06.02.17:746][279]LogSavePackage: Moving 'D:/DT_Project2/DT_Project2/Saved/DT_Project2_Auto1E7645C2C4221C26BCC065991B01514C1.tmp' to 'D:/DT_Project2/DT_Project2/Saved/Autosaves/Game/Map/DT_Project2_Auto1.umap'
+[2025.10.02-06.02.17:747][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/DT_Project2' took 0.050
+[2025.10.02-06.02.17:747][279]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2025.10.02-06.02.26:653][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-06.02.26:732][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/DT_Project2" FILE="D:/DT_Project2/DT_Project2/Content/Map/DT_Project2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.02-06.02.26:793][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.02-06.02.26:810][517]LogSavePackage: Moving output files for package: /Game/Map/DT_Project2
+[2025.10.02-06.02.26:810][517]LogSavePackage: Moving 'D:/DT_Project2/DT_Project2/Saved/DT_Project2A3510EE9493C2A966067FEA26EF56164.tmp' to 'D:/DT_Project2/DT_Project2/Content/Map/DT_Project2.umap'
+[2025.10.02-06.02.26:824][517]LogFileHelpers: Saving map 'DT_Project2' took 0.092
+[2025.10.02-06.02.26:830][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.536 ms (total: 23.8 sec)
+[2025.10.02-06.02.26:881][517]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-06.02.26:881][517]LogContentValidation: Enabled validators:
+[2025.10.02-06.02.26:881][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-06.02.26:881][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-06.02.26:881][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-06.02.26:881][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-06.02.26:881][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-06.02.26:881][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-06.02.26:881][517]AssetCheck: /Game/Map/DT_Project2 Validating asset
