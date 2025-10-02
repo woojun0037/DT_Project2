@@ -4764,3 +4764,297 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.02-05.44.00:336][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21004.253906
 [2025.10.02-05.44.01:336][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.02-05.44.01:336][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21004.921875, Update Interval: 324.097412
+[2025.10.02-05.50.00:972][  5]LogSlate: Window 'Loading Many Assets' being destroyed
+[2025.10.02-05.50.01:009][  5]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 368 assets. Are you sure you want to continue?
+[2025.10.02-05.50.01:044][  5]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-05.50.01:549][  5]LogTexture: Display: Building textures: /Game/Content/AutomobileFlowLine/Maps/Overview_BuiltData.Overview_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 64x64 x1x1x1) (Required Memory Estimate: 1.471324 MB), EncodeSpeed: Fast
+[2025.10.02-05.50.01:549][  5]LogTexture: Display: Building textures: /Game/Content/AutomobileFlowLine/Maps/Overview_BuiltData.Overview_BuiltData:ShadowMapTexture2D_3 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.032544 MB), EncodeSpeed: Fast
+[2025.10.02-05.50.01:549][  5]LogTexture: Display: Building textures: /Game/Content/AutomobileFlowLine/Maps/Overview_BuiltData.Overview_BuiltData:ShadowMapTexture2D_2 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.520825 MB), EncodeSpeed: Fast
+[2025.10.02-05.50.01:549][  5]LogTexture: Display: Building textures: /Game/Content/AutomobileFlowLine/Maps/Overview_BuiltData.Overview_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 1.651002 MB), EncodeSpeed: Fast
+[2025.10.02-05.50.01:549][  5]LogTexture: Display: Building textures: /Game/Content/AutomobileFlowLine/Maps/Overview_BuiltData.Overview_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.10.02-05.50.01:549][  5]LogTexture: Display: Building textures: /Game/Content/AutomobileFlowLine/Maps/Overview_BuiltData.Overview_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.10.02-05.50.02:173][  5]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview
+[2025.10.02-05.50.02:349][  5]LogChaosDD: Creating Chaos Debug Draw Scene for world AutomobileFlowLine_Lumen
+[2025.10.02-05.50.02:610][  5]LogChaosDD: Creating Chaos Debug Draw Scene for world AutomobileFlowLine
+[2025.10.02-05.50.03:362][  5]LogChaosDD: Creating Chaos Debug Draw Scene for world Demo
+[2025.10.02-05.50.03:919][  5]LogBlueprint: Error: [AssetLog] D:\DT_Project2\DT_Project2\Content\Content\LeveSequence\ABP_RM_7_4_Skeleton.uasset: [Compiler] Sequence Player  references an unknown Anim Sequence Base
+[2025.10.02-05.50.03:919][  5]LogBlueprint: Error: [AssetLog] D:\DT_Project2\DT_Project2\Content\Content\LeveSequence\ABP_RM_7_4_Skeleton.uasset: [Compiler] Blendspace Player  references an unknown Blend Space
+[2025.10.02-05.50.03:927][  5]LoadErrors: Error: BlendSpace BS_RM7_4_Turn has a sample with no/invalid animation. Recommend to remove sample point or set new animation.
+[2025.10.02-05.50.04:371][  5]LogChaosDD: Creating Chaos Debug Draw Scene for world DT_Project2
+[2025.10.02-05.50.04:561][  5]LogObjectTools: Deleting 5 worlds: /Game/Content/AutomobileFlowLine/Maps/Overview.Overview, /Game/Content/AutomobileFlowLine/Maps/AutomobileFlowLine_Lumen.AutomobileFlowLine_Lumen, /Game/Content/AutomobileFlowLine/Maps/AutomobileFlowLine.AutomobileFlowLine, /Game/Content/IndustrialRobot/Maps/Demo.Demo, /Game/Content/Map/DT_Project2.DT_Project2
+[2025.10.02-05.50.04:561][  5]LogObjectTools: Currently 11 active worlds: /Game/AutomobileFlowLine/Maps/AutomobileFlowLine.AutomobileFlowLine, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13
+[2025.10.02-05.50.04:687][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.10.02-05.50.19:245][  5]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.02-05.50.19:916][  5]LogUObjectGlobals: Force Deleting 373 Package(s):
+	Asset Name: /Game/Content/Line/Meshes/SM_AssemblyLine01.SM_AssemblyLine01
+	Asset Type: StaticMesh
+	Asset Name: /Game/Content/Line/Meshes/SM_AssemblyLineCorner_L.SM_AssemblyLineCorner_L
+	Asset Type: StaticMesh
+	Asset Name: /Game/Content/AutomobileFlowLine/Blueprints/BP_VehicleHoistControl.BP_VehicleHoistControl
+	Asset Type: Blueprint
+	Asset Name: /Game/Content/AutomobileFlowLine/Blueprints/BP_SpawnCar.BP_SpawnCar
+	Asset Type: Blueprint
+	Asset Name: /Game/Content/AutomobileFlowLine/Blueprints/BP_PlayCarAni.BP_PlayCarAni
+	Asset Type: Blueprint
+	Asset Name: /Game/Content/AutomobileFlowLine/Blueprints/BP_LiftingDevice.BP_LiftingDevice
+	Asset Type: Blueprint
+	Asset Name: /Game/Content/AutomobileFlowLine/Blueprints/BP_KillCar.BP_KillCar
+	Asset Type: Blueprint
+	Asset Name: /Game/Content/AutomobileFlowLine/Blueprints/BP_Car.BP_Car
+	Asset Type: Blueprint
+	Asset Name: /Game/Content/AutomobileFlowLine/Maps/Overview_BuiltData.Overview_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Content/AutomobileFlowLine/Maps/AutomobileFlowLine_BuiltData.AutomobileFlowLine_BuiltData
+	Asset Type: MapBuildDataRegistry
+[2025.10.02-05.50.21:288][  5]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.50.21:289][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.50.21:310][  5]LogWorld: UWorld::CleanupWorld for AutomobileFlowLine_Lumen, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.50.21:317][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.50.21:343][  5]LogWorld: UWorld::CleanupWorld for AutomobileFlowLine, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.50.21:351][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.50.23:956][  5]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.50.23:956][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.50.30:858][  5]LogWorld: UWorld::CleanupWorld for DT_Project2, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.50.30:858][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.50.49:559][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.10.02-05.50.49:599][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.02-05.50.49:631][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.02-05.50.50:387][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21414.908203
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/LeveSequence/ABP_RM_7_4_Skeleton, a dependent package /Game/LeveSequence/A_RM_7_4_Skeleton_TurnLeft was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/A_RM_7_4_Skeleton_TurnLeft has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/A_RM_7_4_Skeleton_TurnLeft'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/LeveSequence/ABP_RM_7_4_Skeleton, a dependent package /Game/LeveSequence/RM_7_4_Skeleton_Sequence was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/RM_7_4_Skeleton_Sequence has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/RM_7_4_Skeleton_Sequence'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/LeveSequence/ABP_RM_7_4_Skeleton, a dependent package /Game/LeveSequence/BS_RM7_4_Turn was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/BS_RM7_4_Turn has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/BS_RM7_4_Turn'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/LeveSequence/BS_RM7_4_Turn, a dependent package /Game/LeveSequence/A_RM_7_4_Idle was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/A_RM_7_4_Idle has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/A_RM_7_4_Idle'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/LeveSequence/BS_RM7_4_Turn, a dependent package /Game/LeveSequence/A_RM_7_4_Skeleton_TurnLeft was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/A_RM_7_4_Skeleton_TurnLeft has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/A_RM_7_4_Skeleton_TurnLeft'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/LeveSequence/BS_RM7_4_Turn, a dependent package /Game/LeveSequence/A_RM_7_4_Skeleton_TurnRight was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/A_RM_7_4_Skeleton_TurnRight has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/A_RM_7_4_Skeleton_TurnRight'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/LeveSequence/CR_SK_RM_7_4_Take1, a dependent package /Game/LeveSequence/CR_SK_RM_7_4 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/CR_SK_RM_7_4 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/CR_SK_RM_7_4'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/Map/DT_Project2, a dependent package /Game/LeveSequence/CR_SK_RM_7_4_Take1 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/CR_SK_RM_7_4_Take1 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/CR_SK_RM_7_4_Take1'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/Map/DT_Project2, a dependent package /Game/LeveSequence/LS_Levelsequence was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/LS_Levelsequence has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/LS_Levelsequence'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:389][  5]LoadErrors: Warning: While trying to load package /Game/Content/Map/DT_Project2, a dependent package /Game/LeveSequence/LS_RM_7 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/LeveSequence/LS_RM_7 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/DT_Project2/DT_Project2/Content/LeveSequence/LS_RM_7'. Perhaps it has been deleted or was not synced?
+
+[2025.10.02-05.50.50:391][  5]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/DT_Project2/DT_Project2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.02-05.50.51:079][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-05.50.51:079][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21415.583984, Update Interval: 324.540558
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: ================================================
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Total job queries 564, among them cache hits 83 (14.72%), DDC hits 407 (72.16%), Duplicates 72 (12.77%)
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Tracking 409 distinct input hashes that result in 293 distinct outputs (71.64%)
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: RAM used: 3.56 MiB of 1.60 GiB budget. Usage: 0.22%
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Average time worker was idle: 68.35 s
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Job execution time: average 1.37 s, max 1.42 s
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Job life time (pending + execution): average 1.41 s, max 1.47
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Shader code size: total 26.121 KiB, numShaders 3, average 8.707 KiB, min 4.43 KiB, max 11.914 KiB
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.82 s
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Average processing rate: 0.71 jobs/sec
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Total thread time: 2.022 s
+[2025.10.02-05.50.55:728][311]LogShaderCompilers: Display: Total thread preprocess time: 8.839 s
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Percentage time preprocessing: 437.23%
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Effective parallelization: 0.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.089578
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 41.28% of total time (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                                  FVelocityPS - 37.69% of total time (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                                  FVelocityVS - 21.03% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: === Material stats ===
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Materials Translated:    176
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Material Translation Only: 0.05 s (36%)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: Material Cache Hits: 53 (30%)
+[2025.10.02-05.50.55:729][311]LogShaderCompilers: Display: ================================================
+[2025.10.02-05.50.57:954][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.02-05.51.00:856][443]LogSlate: Window 'Save Content' being destroyed
+[2025.10.02-05.51.00:896][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-05.51.01:008][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.02-05.51.01:594][443]LogSavePackage: Moving output files for package: /Game/AutomobileFlowLine/Maps/AutomobileFlowLine
+[2025.10.02-05.51.01:594][443]LogSavePackage: Moving 'D:/DT_Project2/DT_Project2/Saved/AutomobileFlowLine9443864345A1441C0179979A2D421285.tmp' to 'D:/DT_Project2/DT_Project2/Content/AutomobileFlowLine/Maps/AutomobileFlowLine.umap'
+[2025.10.02-05.51.01:621][443]LogFileHelpers: Saving map 'AutomobileFlowLine' took 0.673
+[2025.10.02-05.51.01:621][443]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Rail/BP_ModularRail] ([2] browsable assets)...
+[2025.10.02-05.51.01:621][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Rail/BP_ModularRail]
+[2025.10.02-05.51.01:621][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Rail/BP_ModularRail" FILE="D:/DT_Project2/DT_Project2/Content/BP/Rail/BP_ModularRail.uasset" SILENT=true
+[2025.10.02-05.51.01:658][443]LogSavePackage: Moving output files for package: /Game/BP/Rail/BP_ModularRail
+[2025.10.02-05.51.01:658][443]LogSavePackage: Moving 'D:/DT_Project2/DT_Project2/Saved/BP_ModularRailFB1C2A564E29E155B4F5679C12EDB4DA.tmp' to 'D:/DT_Project2/DT_Project2/Content/BP/Rail/BP_ModularRail.uasset'
+[2025.10.02-05.51.01:711][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 814.961 ms (total: 23.5 sec)
+[2025.10.02-05.51.01:711][443]LogStreaming: Display: FlushAsyncLoading(919): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-05.51.01:716][443]LogChaosDD: Creating Chaos Debug Draw Scene for world DT_Project2
+[2025.10.02-05.51.01:720][443]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/DT_Project2.DT_Project2
+[2025.10.02-05.51.01:720][443]Cmd: MAP LOAD FILE="D:/DT_Project2/DT_Project2/Content/Map/DT_Project2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.02-05.51.01:786][443]LogWorld: UWorld::CleanupWorld for AutomobileFlowLine, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.51.01:787][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.51.01:833][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.02-05.51.01:857][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.10.02-05.51.01:862][443]LogWorld: UWorld::CleanupWorld for DT_Project2, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.51.01:863][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.51.01:896][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.10.02-05.51.01:928][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.10.02-05.51.01:934][443]LogAudio: Display: Audio Device (ID: 1) registered with world 'DT_Project2'.
+[2025.10.02-05.51.01:934][443]LogChaosDD: Creating Chaos Debug Draw Scene for world DT_Project2
+[2025.10.02-05.51.01:998][443]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.02-05.51.02:031][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.02-05.51.02:045][443]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.02-05.51.02:045][443]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2025.10.02-05.51.02:130][443]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.02-05.51.02:130][443]LogContentValidation: Enabled validators:
+[2025.10.02-05.51.02:130][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-05.51.02:130][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-05.51.02:130][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-05.51.02:130][443]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-05.51.02:130][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-05.51.02:130][443]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-05.51.02:130][443]AssetCheck: /Game/BP/Rail/BP_ModularRail Validating asset
+[2025.10.02-05.51.02:399][443]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/DT_Project2/DT_Project2/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.02-05.51.02:502][445]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.02-05.51.24:607][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Rail/BP_ModularRail.BP_ModularRail_C
+[2025.10.02-05.51.24:607][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Rail/BP_ModularRail.BP_ModularRail_C
+[2025.10.02-05.51.24:610][751]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Rail/BP_ModularRail.BP_ModularRail as actor: BP_ModularRail_C /Game/Map/DT_Project2.DT_Project2:PersistentLevel.BP_ModularRail_C_0
+[2025.10.02-05.51.24:613][751]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Rail/BP_ModularRail.BP_ModularRail as actor: BP_ModularRail_C /Game/Map/DT_Project2.DT_Project2:PersistentLevel.BP_ModularRail_C_0
+[2025.10.02-05.51.24:621][751]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.02-05.51.26:513][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.02-05.51.26:518][865]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2025.10.02-05.51.26:859][886]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Rail/BP_ModularRail.BP_ModularRail_C
+[2025.10.02-05.51.26:859][886]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Rail/BP_ModularRail.BP_ModularRail_C
+[2025.10.02-05.51.26:862][886]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Rail/BP_ModularRail.BP_ModularRail as actor: BP_ModularRail_C /Game/Map/DT_Project2.DT_Project2:PersistentLevel.BP_ModularRail_C_1
+[2025.10.02-05.51.26:865][886]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Rail/BP_ModularRail.BP_ModularRail as actor: BP_ModularRail_C /Game/Map/DT_Project2.DT_Project2:PersistentLevel.BP_ModularRail_C_1
+[2025.10.02-05.51.27:619][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.02-05.51.27:620][930]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.02-05.51.27:624][930]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Rail/BP_ModularRail.BP_ModularRail_C
+[2025.10.02-05.51.27:624][930]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Rail/BP_ModularRail.BP_ModularRail_C
+[2025.10.02-05.51.27:627][930]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Rail/BP_ModularRail.BP_ModularRail as actor: BP_ModularRail_C /Game/Map/DT_Project2.DT_Project2:PersistentLevel.BP_ModularRail_C_2
+[2025.10.02-05.51.27:630][930]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Rail/BP_ModularRail.BP_ModularRail as actor: BP_ModularRail_C /Game/Map/DT_Project2.DT_Project2:PersistentLevel.BP_ModularRail_C_2
+[2025.10.02-05.51.36:237][431]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Line/Meshes/SM_AssemblyLine01.SM_AssemblyLine01
+[2025.10.02-05.51.36:274][431]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.02-05.51.42:506][730]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.51.42:506][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.51.42:579][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.10.02-05.51.58:527][622]Cmd: DELETE
+[2025.10.02-05.51.58:527][622]Cmd: ACTOR DELETE
+[2025.10.02-05.51.58:536][622]LogEditorActor: Deleted Actor: BP_ModularRail_C
+[2025.10.02-05.51.58:575][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.02-05.51.58:578][622]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2025.10.02-05.52.05:190][ 22]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Rail/BP_ModularRail.BP_ModularRail
+[2025.10.02-05.52.05:190][ 22]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.10.02-05.52.05:280][ 22]LogStreaming: Display: FlushAsyncLoading(921): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.02-05.53.37:263][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-05.53.37:312][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/Rail/BP_ModularRail] ([2] browsable assets)...
+[2025.10.02-05.53.37:312][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Rail/BP_ModularRail]
+[2025.10.02-05.53.37:312][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Rail/BP_ModularRail" FILE="D:/DT_Project2/DT_Project2/Content/BP/Rail/BP_ModularRail.uasset" SILENT=true
+[2025.10.02-05.53.37:347][949]LogSavePackage: Moving output files for package: /Game/BP/Rail/BP_ModularRail
+[2025.10.02-05.53.37:348][949]LogSavePackage: Moving 'D:/DT_Project2/DT_Project2/Saved/BP_ModularRail3FDFFDAF4B3ECE4D493FE483BFFB6B72.tmp' to 'D:/DT_Project2/DT_Project2/Content/BP/Rail/BP_ModularRail.uasset'
+[2025.10.02-05.53.37:357][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.601 ms (total: 23.6 sec)
+[2025.10.02-05.53.37:411][949]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-05.53.37:411][949]LogContentValidation: Enabled validators:
+[2025.10.02-05.53.37:411][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-05.53.37:411][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-05.53.37:411][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-05.53.37:411][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-05.53.37:411][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-05.53.37:411][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-05.53.37:411][949]AssetCheck: /Game/BP/Rail/BP_ModularRail Validating asset
+[2025.10.02-05.53.42:909][274]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-05.53.42:909][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-05.53.43:004][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.10.02-05.53.48:967][624]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.10.02-05.53.51:206][754]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.10.02-05.53.51:227][755]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.02-05.53.51:266][757]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.02-05.53.51:286][758]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.02-05.53.51:310][759]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.02-05.53.51:339][760]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.10.02-05.53.51:366][761]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.10.02-05.53.51:392][762]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.02-05.53.51:444][763]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.10.02-05.53.51:470][764]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.10.02-05.53.51:527][766]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.10.02-05.53.51:569][767]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.10.02-05.53.51:619][769]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.10.02-05.53.51:650][770]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.10.02-05.53.51:718][772]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.10.02-05.53.51:741][773]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.10.02-05.53.51:778][774]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.10.02-05.53.51:837][776]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.10.02-05.53.52:011][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.10.02-05.53.52:056][779]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.10.02-05.53.52:103][780]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.10.02-05.53.52:140][781]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.10.02-05.53.52:181][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.10.02-05.53.52:227][783]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.10.02-05.53.52:298][786]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: ================================================
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Total job queries 640, among them cache hits 106 (16.56%), DDC hits 451 (70.47%), Duplicates 72 (11.25%)
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Tracking 462 distinct input hashes that result in 330 distinct outputs (71.43%)
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: RAM used: 3.88 MiB of 1.60 GiB budget. Usage: 0.24%
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Shaders Compiled: 11
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Average time worker was idle: 39.85 s
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.04 s
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 1.42 s
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Job life time (pending + execution): average 0.86 s, max 1.47
+[2025.10.02-05.53.55:730][987]LogShaderCompilers: Display: Shader code size: total 114.02 KiB, numShaders 13, average 8.771 KiB, min 3.777 KiB, max 14.973 KiB
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.34 s
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Average processing rate: 2.06 jobs/sec
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Total thread time: 7.296 s
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Total thread preprocess time: 9.816 s
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Percentage time preprocessing: 134.54%
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Effective parallelization: 1.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.170663
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.83 sec, max 0.83 sec, min 0.82 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.69 sec, max 0.76 sec, min 0.62 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.52 sec, max 0.56 sec, min 0.48 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.38 sec, max 0.43 sec, min 0.34 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.62% of total time (compiled    2 times, average 0.83 sec, max 0.83 sec, min 0.82 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                                                  FVelocityPS - 19.00% of total time (compiled    2 times, average 0.69 sec, max 0.76 sec, min 0.62 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 16.02% of total time (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.26% of total time (compiled    2 times, average 0.52 sec, max 0.56 sec, min 0.48 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display:                                                  FVelocityVS - 10.45% of total time (compiled    2 times, average 0.38 sec, max 0.43 sec, min 0.34 sec)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: === Material stats ===
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Materials Translated:    180
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Material Translation Only: 0.05 s (34%)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: Material Cache Hits: 54 (30%)
+[2025.10.02-05.53.55:731][987]LogShaderCompilers: Display: ================================================
+[2025.10.02-05.54.16:861][246]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Rail/BP_ModularRail.BP_ModularRail
+[2025.10.02-05.54.16:861][246]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.10.02-05.54.21:139][451]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Line/Meshes/SM_AssemblyLine01.SM_AssemblyLine01
+[2025.10.02-05.54.21:147][451]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
