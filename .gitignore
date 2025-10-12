@@ -93,3 +93,6 @@ __pycache__/
 # SourceArt 폴더 내의 특정 형식 파일은 보통 버전 관리에 포함됩니다.
 # 만약 SourceArt 내에 Git에 포함하지 않을 특정 파생 파일이 있다면 여기에 추가하세요.
 # 예시: SourceArt/**/*.generated.png
+
+# Ignore StarterPack folder in Content directory
+Content/StarterContent/
